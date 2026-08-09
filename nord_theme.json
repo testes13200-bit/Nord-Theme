@@ -1,0 +1,175 @@
+{
+  "name": "Nord",
+  "description": "Nord-inspired transparent Discord theme with the original background and custom font.",
+  "authors": [
+    {
+      "name": "Custom"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ECEFF4"
+    ],
+    "HEADER_SECONDARY": [
+      "#D8DEE9"
+    ],
+    "TEXT_NORMAL": [
+      "#E5E9F0"
+    ],
+    "TEXT_MUTED": [
+      "#A7B0C0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D8DEE9"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#88C0D0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#81A1C1"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#616E88"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "transparent"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "transparent"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "transparent"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "transparent"
+    ],
+    "BACKGROUND_ACCENT": [
+      "transparent"
+    ],
+    "BACKGROUND_FLOATING": [
+      "rgba(0,0,0,0.7)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "transparent"
+    ],
+    "BG_BASE_TERTIARY": [
+      "transparent"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "transparent"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "rgba(0,0,0,0.7)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(136,192,208,0.12)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(216,222,233,0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(136,192,208,0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(136,192,208,0.20)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(136,192,208,0.20)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#4C566A"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#4C566A"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#A7B0C0"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A7B0C0"
+    ],
+    "TEXT_LINK": [
+      "#88C0D0"
+    ],
+    "TEXT_DANGER": [
+      "#BF616A"
+    ],
+    "CHANNEL_ICON": [
+      "#D8DEE9"
+    ],
+    "CHAT_BACKGROUND": [
+      "transparent"
+    ],
+    "CARD_PRIMARY_BG": [
+      "rgba(0,0,0,0.35)"
+    ],
+    "CARD_SECONDARY_BG": [
+      "rgba(0,0,0,0.35)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "rgba(0,0,0,0.5)"
+    ],
+    "BG_BACKDROP": [
+      "rgba(0,0,0,0.35)"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ECEFF4",
+    "PRIMARY_200": "#ECEFF4",
+    "PRIMARY_230": "#4C566A",
+    "PRIMARY_300": "#4C566A",
+    "PRIMARY_360": "#D8DEE9",
+    "PRIMARY_400": "#4C566A",
+    "PRIMARY_500": "transparent",
+    "PRIMARY_600": "transparent",
+    "PRIMARY_630": "transparent",
+    "PRIMARY_645": "#88C0D0",
+    "PRIMARY_660": "transparent",
+    "PRIMARY_700": "transparent",
+    "PRIMARY_800": "transparent",
+    "BRAND_260": "#88C0D0",
+    "BRAND_360": "#81A1C1",
+    "BRAND_500": "#5E81AC",
+    "BRAND_560": "#4C566A",
+    "YELLOW_300": "#EBCB8B",
+    "GREEN_600": "#A3BE8C",
+    "RED_400": "#BF616A",
+    "WHITE_500": "#ECEFF4"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-Bold": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-BoldItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-ExtraBold": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-ExtraBoldItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-Medium": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-MediumItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-Normal": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-NormalItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-Semibold": "https://files.catbox.moe/qzllhn.ttf",
+    "ggsans-SemiboldItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-Bold": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-ExtraBold": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-Medium": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-Normal": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-NormalItalic": "https://files.catbox.moe/qzllhn.ttf",
+    "NotoSans-Semibold": "https://files.catbox.moe/qzllhn.ttf",
+    "SourceCodePro-Semibold": "https://files.catbox.moe/qzllhn.ttf"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://iili.io/C4j1yGI.png",
+    "alpha": 1
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true
+  },
+  "spec": 2
+}
