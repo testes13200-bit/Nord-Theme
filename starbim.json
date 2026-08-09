@@ -1,0 +1,46 @@
+{
+    "fontInfo": {
+        "fontFamily": "Starbim",
+        "fontSubfamily": "Regular",
+        "fullName": "Starbim Regular",
+        "postScriptName": "StarbimRegular",
+        "format": "OpenType / TrueType (OTF & TTF)",
+        "version": "1.000",
+        "creationYear": 2025,
+        "copyright": "Copyright (c) 2025 by Khurasan. All rights reserved.",
+        "trademark": "Starbim is a trademark of Khurasan.",
+        "designer": "Khurasan",
+        "designerWebsite": "https://www.khurasanstudio.com",
+        "licenseUrl": "https://khurasanstudio.com/license/",
+        "contactEmail": "khurasantype@gmail.com"
+    },
+    "tables": [
+        "GPOS",
+        "GSUB",
+        "LTSH",
+        "OS/2",
+        "VDMX",
+        "cmap",
+        "cvt",
+        "fpgm",
+        "glyf",
+        "hdmx",
+        "head",
+        "hhea",
+        "hmtx",
+        "kern",
+        "loca",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+    ],
+    "supportedScripts": [
+        "Latin (DFLT / latn)"
+    ],
+    "characterMapSummary": {
+        "basicLatin": "A-Z, a-z, 0-9",
+        "punctuationAndSymbols": "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~",
+        "extendedCharacters": "Special characters, accents, currency symbols (Euro), ligatures, kerning pairs"
+    }
+}
